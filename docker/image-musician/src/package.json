@@ -1,8 +1,8 @@
 {
   "name": "package.json",
   "version": "1.0.0",
-  "description": "Auditor UDP & TCP server",
-  "main": "auditor.js",
+  "description": "Musician UDP client",
+  "main": "musician.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,6 +13,7 @@
   "author": "Mentor Reka",
   "license": "ISC",
   "dependencies": {
-    "moment": "^2.22.1"
+    "moment": "^2.22.1",
+    "uuid": "^3.2.1"
   }
 }
