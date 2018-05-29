@@ -1,0 +1,4 @@
+exports.PROTOCOL_MULTICAST_ADDRESS = "239.255.22.5";
+exports.UDP_PORT = 9907;
+exports.AUDITOR_IP = "127.0.0.1";
+exports.TCP_PORT = 2205
